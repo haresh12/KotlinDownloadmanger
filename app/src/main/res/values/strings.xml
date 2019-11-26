@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin Download Manager</string>
+    <string name="view_downloads">View downloads</string>
+    <string name="download_large_image">Download Large Image (88MB)</string>
+    <string name="download_small_image">Download Small Image (1.1MB)</string>
+    <string name="processing">Processing…</string>
+    <string name="finished">Download finished</string></resources>
